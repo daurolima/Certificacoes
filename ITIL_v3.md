@@ -1,4 +1,5 @@
 1. Estratégia de Serviço
+
     1.1 Propósito:  O propósito da estratégia de serviço é definir a perspectiva, posição, planos e padrões que um 
     provedor de serviços precisa para executar algo a fim de atender aos resultados de negócio de uma organização. 
     
